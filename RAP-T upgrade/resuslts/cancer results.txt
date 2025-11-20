@@ -1,0 +1,285 @@
+well 1
+Parameters:
+
+r (growth):  0.100
+d (damping): 0.100
+K (capacity):91929.000
+Convergence:
+
+Final util: 0.906
+Distance:   0.056
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  1312890894.9290
+SSE (Log):  2912508572.0663
+✅ RAP superior
+
+well 2
+📊 Fit Results
+Parameters:
+
+r (growth):  0.100
+d (damping): 0.100
+K (capacity):133265.000
+Convergence:
+
+Final util: 0.906
+Distance:   0.056
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  2747934315.2412
+SSE (Log):  5588988739.2224
+✅ RAP superior
+
+well 3
+📊 Fit Results
+Parameters:
+
+r (growth):  0.195
+d (damping): 0.100
+K (capacity):121458.000
+Convergence:
+
+Final util: 0.943
+Distance:   0.093
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  621139145.3407
+SSE (Log):  1798065971.5935
+✅ RAP superior
+
+well 4
+📊 Fit Results
+Parameters:
+
+r (growth):  0.244
+d (damping): 0.100
+K (capacity):96014.000
+Convergence:
+
+Final util: 0.956
+Distance:   0.106
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  452404000.5086
+SSE (Log):  1121625094.0023
+✅ RAP superior
+
+well 5
+📊 Fit Results
+Parameters:
+
+r (growth):  0.160
+d (damping): 0.100
+K (capacity):145805.000
+Convergence:
+
+Final util: 0.932
+Distance:   0.082
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  1147366808.4321
+SSE (Log):  3070930748.6690
+✅ RAP superior
+
+well 6
+📊 Fit Results
+Parameters:
+
+r (growth):  0.172
+d (damping): 0.100
+K (capacity):86932.000
+Convergence:
+
+Final util: 0.936
+Distance:   0.086
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  412393228.4800
+SSE (Log):  1079766355.2538
+✅ RAP superior
+
+well 7
+📊 Fit Results
+Parameters:
+
+r (growth):  0.117
+d (damping): 0.100
+K (capacity):97469.000
+Convergence:
+
+Final util: 0.915
+Distance:   0.065
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  558770183.4870
+SSE (Log):  1661368095.2004
+✅ RAP superior
+
+well 8
+📊 Fit Results
+Parameters:
+
+r (growth):  0.168
+d (damping): 0.100
+K (capacity):151091.000
+Convergence:
+
+Final util: 0.934
+Distance:   0.084
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  1416241514.3834
+SSE (Log):  3651519970.6860
+✅ RAP superior
+
+well 9
+📊 Fit Results
+Parameters:
+
+r (growth):  0.100
+d (damping): 0.100
+K (capacity):153258.000
+Convergence:
+
+Final util: 0.907
+Distance:   0.057
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  2875347376.6214
+SSE (Log):  7205398112.1777
+✅ RAP superior
+
+well 10
+📊 Fit Results
+Parameters:
+
+r (growth):  0.100
+d (damping): 5.000
+K (capacity):113784.000
+Convergence:
+
+Final util: 0.870
+Distance:   0.020
+✅ Locked to 85%
+
+Model Quality:
+
+SSE (RAP):  921608436.1831
+SSE (Log):  2810936430.1502
+✅ RAP superior
+
+well 11
+📊 Fit Results
+Parameters:
+
+r (growth):  0.110
+d (damping): 0.100
+K (capacity):90564.000
+Convergence:
+
+Final util: 0.913
+Distance:   0.063
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  678166044.6281
+SSE (Log):  1725571629.1483
+✅ RAP superior
+
+well 12
+📊 Fit Results
+Parameters:
+
+r (growth):  0.139
+d (damping): 0.100
+K (capacity):105465.000
+Convergence:
+
+Final util: 0.925
+Distance:   0.075
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  745767059.3347
+SSE (Log):  1846702801.2989
+✅ RAP superior
+
+well 13
+📊 Fit Results
+Parameters:
+
+r (growth):  0.240
+d (damping): 0.100
+K (capacity):121538.000
+Convergence:
+
+Final util: 0.955
+Distance:   0.105
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  619845413.3874
+SSE (Log):  1617135894.0039
+✅ RAP superior
+
+well 14
+📊 Fit Results
+Parameters:
+
+r (growth):  0.100
+d (damping): 0.354
+K (capacity):116782.000
+Convergence:
+
+Final util: 0.904
+Distance:   0.054
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  1397679700.5898
+SSE (Log):  3575771191.1384
+✅ RAP superior
+
+well 15
+📊 Fit Results
+Parameters:
+
+r (growth):  0.179
+d (damping): 0.100
+K (capacity):126706.000
+Convergence:
+
+Final util: 0.938
+Distance:   0.088
+⚠️ Not converged
+
+Model Quality:
+
+SSE (RAP):  1189405758.9113
+SSE (Log):  2703531476.5104
+✅ RAP superior
+
+
