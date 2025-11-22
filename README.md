@@ -162,6 +162,38 @@ RAP-validation/
 
 ---
 
+## 🔮 Active Predictions
+
+### Macroeconomic Debt Crisis (2025-2040)
+
+**📊 [View Full Prediction →](macroeconomic_prediction/PREDICTION.md)**
+
+**Status:** 🔴 ACTIVE EXPERIMENT - Prediction Locked November 22, 2025
+
+**Summary:** Testing whether RAP dynamics (validated across 12,547 biological systems) scale to global economics.
+
+| Parameter | Value |
+|-----------|-------|
+| **Current Debt-to-GDP** | 235% (2025) |
+| **Target Attractor** | 85% (validated biological) |
+| **Required Damping** | d = 10-12 (impossible) |
+| **Current Damping** | d < 0 (negative) |
+| **Prediction** | Hard reset 2027-2032 (70% probability) |
+
+**Why It Matters:** This is a **falsifiable test** of whether:
+- The 85% attractor is universal (biology → economics)
+- Negative damping dynamics predict civilizational crises
+- RAP framework can forecast systemic collapse timelines
+
+**Falsification Criteria:**
+- ✅ Debt > 120% by 2040 → Prediction confirmed
+- ❌ Debt < 90% by 2040 → Framework needs revision
+- 📊 Hard reset 2027-2032 → Timeline and mechanism validated
+
+**Next Update:** Q1 2026 (March 2026) - [Quarterly Tracking](macroeconomic_prediction/quarterly_tracking.md)
+
+---
+
 ## 🎯 Future Work
 
 ### Domains Under Investigation
